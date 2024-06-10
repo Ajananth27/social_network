@@ -8,7 +8,7 @@
 
 STEP 1:
 
-git clone https://github.com/yourusername/social_network.git
+git clone https://github.com/Ajananth27/social_network.git
 cd social_network
 
 STEP 2:
